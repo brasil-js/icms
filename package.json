@@ -1,6 +1,6 @@
 {
   "name": "icms",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Tabela de ICMS interno e interestadual em javascript",
   "main": "index.js",
   "scripts": {
