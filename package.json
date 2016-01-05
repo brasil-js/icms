@@ -1,0 +1,32 @@
+{
+  "name": "icms",
+  "version": "0.0.1",
+  "description": "Tabela de ICMS interno e interestadual em javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brasil-js/icms.git"
+  },
+  "keywords": [
+    "icms",
+    "imposto",
+    "brasil",
+    "gammasoft",
+    "brasil.js",
+    "nfe",
+    "nota-fiscal",
+    "nota",
+    "fiscal",
+    "eletronica",
+    "danfe"
+  ],
+  "author": "Renato Gama <renato@gammasoft.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brasil-js/icms/issues"
+  },
+  "homepage": "https://github.com/brasil-js/icms"
+}
