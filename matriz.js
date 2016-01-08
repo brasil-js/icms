@@ -62,7 +62,7 @@ module.exports = {
     am: {
         ac: 12,
         al: 12,
-        am: 17,
+        am: 18, // LEI COMPLEMENTAR N° 158, DE 08 DE OUTUBRO DE 2015
         ap: 12,
         ba: 12,
         ce: 12,
@@ -93,7 +93,7 @@ module.exports = {
         ac: 12,
         al: 12,
         am: 12,
-        ap: 17,
+        ap: 18, // LEI N° 1.949, DE 29 DE OUTUBRO DE 2015
         ba: 12,
         ce: 12,
         df: 12,
@@ -186,7 +186,7 @@ module.exports = {
         ap: 12,
         ba: 12,
         ce: 12,
-        df: 17,
+        df: 18, // LEI N° 5.548, DE 15 DE OUTUBRO DE 2015
         es: 12,
         go: 12,
         ma: 12,
@@ -279,7 +279,7 @@ module.exports = {
         df: 12,
         es: 12,
         go: 12,
-        ma: 17,
+        ma: 18, // LEI N° 10.329, DE 30 DE SETEMBRO DE 2015
         mt: 12,
         ms: 12,
         mg: 12,
@@ -434,7 +434,7 @@ module.exports = {
         ms: 12,
         mg: 12,
         pa: 12,
-        pb: 17,
+        pb: 18, // LEI N° 10.507, DE 18 DE SETEMBRO DE 2015
         pr: 12,
         pe: 12,
         pi: 12,
@@ -496,7 +496,7 @@ module.exports = {
         pa: 12,
         pb: 12,
         pr: 12,
-        pe: 17,
+        pe: 18, // LEI Nº 10.259, DE 27 DE JANEIRO DE 1989
         pi: 12,
         rn: 12,
         rs: 12,
@@ -558,7 +558,7 @@ module.exports = {
         pr: 12,
         pe: 12,
         pi: 12,
-        rn: 17,
+        rn: 18, // LEI N° 9.991, DE 29 DE OUTUBRO DE 2015
         rs: 12,
         rj: 12,
         ro: 12,
@@ -589,7 +589,7 @@ module.exports = {
         pe: 7,
         pi: 7,
         rn: 7,
-        rs: 17,
+        rs: 18, // LEI N° 9.991, DE 29 DE OUTUBRO DE 2015
         rj: 12,
         ro: 7,
         rr: 7,
@@ -651,7 +651,7 @@ module.exports = {
         rn: 12,
         rs: 12,
         rj: 12,
-        ro: 17,
+        ro: 17.5, // LEI Nº 3699, DE 22 DE DEZEMBRO DE 2015
         rr: 12,
         sc: 12,
         sp: 12,
@@ -775,7 +775,7 @@ module.exports = {
         rr: 12,
         sc: 12,
         sp: 12,
-        se: 17,
+        se: 18, // LEI N° 8.039, DE 01 DE OUTUBRO DE 2015
         to: 12
     },
 
@@ -806,6 +806,6 @@ module.exports = {
         sc: 12,
         sp: 12,
         se: 12,
-        to: 17
+        to: 18 // LEI N° 3.019, DE 30 DE SETEMBRO DE 2015
     }
 };
