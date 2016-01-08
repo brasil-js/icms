@@ -620,7 +620,7 @@ module.exports = {
         pi: 7,
         rn: 7,
         rs: 12,
-        rj: 19,
+        rj: 18, // A alíquota do ICMS no RJ era 19% considerando 1% de FCP.
         ro: 7,
         rr: 7,
         sc: 12,
