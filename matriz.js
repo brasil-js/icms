@@ -31,7 +31,7 @@ module.exports = {
 
     al: {
         ac: 12,
-        al: 17,
+        al: 18,
         am: 12,
         ap: 12,
         ba: 12,
@@ -124,7 +124,7 @@ module.exports = {
         al: 12,
         am: 12,
         ap: 12,
-        ba: 17,
+        ba: 18,
         ce: 12,
         df: 12,
         es: 12,
@@ -155,7 +155,7 @@ module.exports = {
         am: 12,
         ap: 12,
         ba: 12,
-        ce: 17,
+        ce: 18,
         df: 12,
         es: 12,
         go: 12,
@@ -462,7 +462,7 @@ module.exports = {
         ma: 7,
         mt: 7,
         ms: 7,
-        mg: 12,
+        mg: 7,
         pa: 7,
         pb: 7,
         pr: 18,
@@ -527,7 +527,7 @@ module.exports = {
         pb: 12,
         pr: 12,
         pe: 12,
-        pi: 17,
+        pi: 18,
         rn: 12,
         rs: 12,
         rj: 12,
@@ -620,7 +620,7 @@ module.exports = {
         pi: 7,
         rn: 7,
         rs: 12,
-        rj: 18, // A alíquota do ICMS no RJ era 19% considerando 1% de FCP.
+        rj: 20, // A alíquota do ICMS no RJ era 19% considerando 1% de FCP.
         ro: 7,
         rr: 7,
         sc: 12,
